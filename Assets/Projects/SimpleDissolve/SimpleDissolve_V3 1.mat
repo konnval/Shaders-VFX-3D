@@ -70,7 +70,7 @@ Material:
     - _Cull: 2
     - _DissolveAmount: 0
     - _DissolveScale: 40
-    - _DissolveWidth: 0.02
+    - _DissolveWidth: 0.025
     - _DstBlend: 0
     - _DstBlendAlpha: 0
     - _Metallic: 0
@@ -89,6 +89,6 @@ Material:
     - _ZWriteControl: 0
     m_Colors:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
-    - _DissolveColor: {r: 1.3445777, g: 12.393496, b: 1.6895164, a: 1}
+    - _DissolveColor: {r: 0.23315915, g: 1.97719, b: 0.2939975, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
